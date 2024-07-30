@@ -1,9 +1,0 @@
-{
-  "devDependencies": {
-    "nodemon": "^3.1.4"
-  },
-  "scripts": {
-    "start": "node 05.js",
-    "dev": "nodemon 05.js"
-  }
-}
